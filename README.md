@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @iDOKER
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I’m @iDOKER
+
+### My Web
+
+- [standuke.top](https://www.standuke.top/)
+- [Blog](https://blog.standuke.top/)
+- [Photo Album](https://photograph.standuke.top/)
+
+### Contact Me
+
+- LinkedIn: [Doc Sun](https://linkedin.com/in/doc-s-44435ab2)
 
 <!---
 iDOKER/iDOKER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
