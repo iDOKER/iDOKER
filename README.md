@@ -9,6 +9,7 @@
 #### Contact Me
 
 - LinkedIn: [Doc Sun](https://linkedin.com/in/doc-s-44435ab2)
+- Email: [shjkt@foxmail.com](mailto:shjkt@foxmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idoker)](https://github.com/anuraghazra/github-readme-stats)
 
